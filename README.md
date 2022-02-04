@@ -34,7 +34,7 @@
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contact](#contact)
 
-## Theory
+## `Theory`
 The theory for continuous integration and continuous deliver  
 * [continuousIntegration](http://martinfowler.com/articles/continuousIntegration.html)  
 * [continuousdelivery](http://continuousdelivery.com)  
@@ -44,7 +44,7 @@ The theory for continuous integration and continuous deliver
 * [ci cheatsheet](https://dzone.com/refcardz/continuous-integration)  
 * [devops_roadmap](https://github.com/kamranahmedse/developer-roadmap)  
 
-## Build And Release System
+## `Build And Release System`
 The system for software build and release, continuous integration and continuous delivery  
 * [Jenkins](http://jenkins-ci.org)  An extendable open source continuous integration server  
 * [Solano CI](https://www.solanolabs.com)  Faster Continuous Integration and Deployment with patented auto-parallelization. See results 10 to 80x faster. 14-day free trial. No credit card required.
@@ -104,11 +104,11 @@ Online build release system
 * [Buildkite](https://buildkite.com) - Lightning fast testing and delivery for all your software projects
 
 
-## Monitoring
+## `Monitoring`
 Tools for monitoring the status continuous integration and continuous delivery  
 * [CatLight](https://catlight.io)  Build status monitor for Jenkins, TeamCity, Travis CI, Appveyor and TFS
 
-## Infrastructure
+## `Infrastructure`
 The hardware,virtual machines, fram management, docker  
 * [GridWiki](http://wiki.gridengine.info/wiki/index.php/Main_Page)  wiki page for Grid  
 * [UGE](http://www.univa.com)  Univa workload management solutions maximize the value of existing computing resources by efficiently sharing workloads across thousands of servers  
@@ -120,13 +120,13 @@ The hardware,virtual machines, fram management, docker
 * [amazon](http://aws.amazon.com/ec2/) Scalable, pay-as-you-go compute capacity in the cloud  
 * [mesosphere-dc/os](mesosphere.com) As a datacenter operating system, DC/OS is itself a distributed system, a cluster manager, a container platform, and an operating system.  
 
-## Dev env
+## `Dev env`
 * [boxstarter](http://boxstarter.org/) Repeatable, reboot resilient windows environment installations made easy using Chocolatey packages.  
 * [T.A.D.S. boilerplate](https://github.com/Thomvaill/tads-boilerplate) A boilerplate to setup a Docker Swarm environment with Ansible
 * [vagrantup](https://www.vagrantup.com/)  Create and configure lightweight, reproducible, and portable development environments.  
 * [veewee](https://github.com/jedi4ever/veewee) Easing the building of vagrant boxes  
 
-## Source Code Management
+## `Source Code Management`
 Version control and source code management tools  
 * [git](http://git-scm.com)  Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency  
 * [perforce](https://www.perforce.com/)  Industry’s most reliable and proven platform for versioning code, images, documents... everything  
@@ -140,7 +140,7 @@ Version control and source code management tools
 * [phabricator](http://phabricator.org/)  Phabricator is a collection of open source web applications that help software companies build better software.  
 * [IBM DevOps Services](https://hub.jazz.net) - Store, manage, edit, and collaborate on your source code. Then deploy onto the IBM Bluemix cloud platform.  
 
-## Code Review
+## `Code Review`
 Code review tools  
 * [codecollaborator](http://smartbear.com/product/collaborator/overview/) Collaborator helps development, testing and management teams work together to produce high quality code  
 * [crucible](https://www.atlassian.com/software/crucible/overview)  Code reviews = quality code. Review code, discuss changes, share knowledge, and identify defects with Crucible's flexible review workflow. It's code review made easy for Subversion, CVS, Perforce, and more  
@@ -152,7 +152,7 @@ Code review tools
 * [Upsource](https://www.jetbrains.com/upsource/) Polyglot Code Review Tool, featuring code insight for PHP, JavaScript and Kotlin, GitHub integration, automated workflows, integration with CI servers
 * [Ebert](https://ebertapp.io) Ebert does continuous static analysis of your GitHub repositories and delivers it straight to your Pull Requests, helping your team to focus on what's important and deliver better software.
 
-## Build
+## `Build`
 Build tools  
 * [gnumake](http://www.gnu.org/software/make/) GNU Make is a tool which controls the generation of executables and other non-source files of a program from the program's source files  
 * [gnuautoconf](http://www.gnu.org/software/autoconf/) Autoconf is an extensible package of M4 macros that produce shell scripts to automatically configure software source code packages  
@@ -168,7 +168,7 @@ Build tools
 * [do](https://github.com/8gears/do)  The simplest build tool on earth. Agnostic and multipurpose build tool and a build file. Tries to be better than the usual shell hell.
 
 
-## Static Check
+## `Static Check`
 Software static check tools  
 * [static tools wiki](https://en.wikipedia.org/wiki/List_of_tools_for_static_code_analysis) wiki page  
 * [coverity](http://www.coverity.com/)  Continually measure and improve code quality and security across your development organization  
@@ -178,20 +178,20 @@ Software static check tools
 * [findbugs](http://findbugs.sourceforge.net)  Find Bugs in Java Programs   
 * [checkstyle](http://checkstyle.sourceforge.net)  Checkstyle is a development tool to help programmers write Java code that adheres to a coding standard  
 
-## Dynamic Check
+## `Dynamic Check`
 Software dynamic check tools  
 * [dynamic tools wiki](https://en.wikipedia.org/wiki/Dynamic_program_analysis)  wiki page  
 * [valgrind](http://valgrind.org)  automatically detect many memory management and threading bugs, and profile your programs in detail  
 
-## Performance Analysis
+## `Performance Analysis`
 Software performance analysis tools  
 * [performance tools wiki](https://en.wikipedia.org/wiki/List_of_performance_analysis_tools)  wiki page    
 
-## Coverage
+## `Coverage`
 Software testing coverage tools  
 * [code coverage wiki](https://en.wikipedia.org/wiki/Code_coverage)  wiki page  
 
-## Testing
+## `Testing`
 Software testing framework and tools  
 * [Testingautomation](https://en.wikipedia.org/wiki/Test_automation)  test automation wiki page  
 * [softwareqatest](http://www.softwareqatest.com) FAQ page  
@@ -202,7 +202,7 @@ Software testing framework and tools
 * [Assertible](https://assertible.com) Continuous post deployment testing for GitHub
 * [Macaca](https://github.com/alibaba/macaca) Automation test solution for native, hybrid, mobile web and web application on mobile and desktop platforms
 
-## Package
+## `Package`
 The tools for software package and installation  
 * [installshield](http://www.installshield.com)  World's #1 Software Installation Solution-Build Reliable MSI Installers for Windows Applications  
 * [NSIS](http://nsis.sourceforge.net/Main_Page)  NSIS (Nullsoft Scriptable Install System) is a professional open source system to create Windows installers. It is designed to be as small and flexible as possible and is therefore very suitable for internet distribution  
