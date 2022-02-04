@@ -8,7 +8,7 @@
 
 ![ci-cd](https://github.com/exajobs/ci-cd-collection/blob/main/img/CICD_CICD.png)
 
-The main concepts attributed to CI/CD are continuous integration, continuous delivery, and continuous deployment. CI/CD is a solution to the problems integrating new code can cause for development and operations teams (AKA "integration hell").
+The main concepts attributed to CI/CD are **continuous integration, continuous delivery, and continuous deployment.** CI/CD is a solution to the problems integrating new code can cause for development and operations teams (AKA "integration hell").
 
 ## `Table of Contents`
 - [Continuous Integration / Continuous Delivery](#continuous-integration--continuous-delivery-ci--cd)
