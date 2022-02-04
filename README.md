@@ -5,7 +5,7 @@
 ### `What is  CI/CD?`
 
 ## `Table of Contents`
-- [Continuous Integration / Continuous Delivery](#ciandcd)
+- [Continuous Integration / Continuous Delivery](#continuous-integration--continuous-delivery-ci--cd)
 - [Theory](#theory)
 - [Build And Release System](#build-and-release-system)
 - [Online Build System](#online-build-system)
@@ -286,14 +286,14 @@ Conference and submit
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
-* [awesome](https://github.com/sindresorhus/awesome)  
-* [awesome-awesome](https://github.com/emijrp/awesome-awesome)  
+* [collection of Collections](https://github.com/exajobs/collection)  
+* [Community](https://github.com/emijrp/awesome-awesome)  
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin](https://github.com/itech001/awesome-sysadmin)  
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 * [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services)
-* [awesome-docker](https://github.com/veggiemonk/awesome-docker)  
+* [Docker Collection](https://github.com/exajobs/docker collection)  
 
 
 
