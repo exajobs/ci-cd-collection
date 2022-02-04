@@ -5,7 +5,7 @@
 ### `What is  CI/CD?`
 
 ## `Table of Contents`
-- [ciandcd](#ciandcd)
+- [Continuous Integration / Continuous Delivery](#ciandcd)
 - [Theory](#theory)
 - [Build And Release System](#build-and-release-system)
 - [Online Build System](#online-build-system)
