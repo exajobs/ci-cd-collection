@@ -293,7 +293,7 @@ Other amazingly awesome lists can be found in
 * [ci tools compare](https://en.wikipedia.org/wiki/Comparison_of_continuous_integration_software)  
 * [ci tools compare2](https://github.com/ciandcd/Continuous-Integration-services/blob/master/continuous-integration-services-list.md)
 * [ci tools compare 3](https://github.com/ligurio/Continuous-Integration-services)
-* [Docker Collection](https://github.com/exajobs/docker collection)  
+* [Docker Collection](https://github.com/exajobs/docker-collection)  
 
 
 
