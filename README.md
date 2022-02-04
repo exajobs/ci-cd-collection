@@ -286,7 +286,7 @@ Conference and submit
 
 ## Other Awesome Lists
 Other amazingly awesome lists can be found in  
-* [collection of Collections](https://github.com/exajobs/collection)  
+* [Collection of Collections](https://github.com/exajobs/collection)  
 * [Community](https://github.com/emijrp/awesome-awesome)  
 * [awesome-awesomeness](https://github.com/bayandin/awesome-awesomeness)  
 * [sysadmin](https://github.com/itech001/awesome-sysadmin)  
