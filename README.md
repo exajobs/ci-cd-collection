@@ -4,6 +4,10 @@
 
 ### `What is  CI/CD?`
 
+[CI/CD](https://www.redhat.com/en/topics/devops/what-is-ci-cd) is a method to frequently deliver apps to customers by introducing automation into the stages of app development.
+
+![ci-cd](https://github.com/exajobs/ci-cd-collection/blob/main/img/CICD_CICD.png)
+
 ## `Table of Contents`
 - [Continuous Integration / Continuous Delivery](#continuous-integration--continuous-delivery-ci--cd)
 - [Theory](#theory)
