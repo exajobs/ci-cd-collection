@@ -1,1 +1,1 @@
-# ci-cd-collection
+# Continuous Integration / Continuous Delivery (CI / CD)
